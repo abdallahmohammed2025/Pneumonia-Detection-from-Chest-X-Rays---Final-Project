@@ -11,3 +11,4 @@ plotly==5.22.0
 # Optional: For exporting or manipulating files
 jupyter==1.0.0
 ipykernel==6.29.4
+TensorFlow==2.x
